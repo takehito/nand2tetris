@@ -1,2 +1,6 @@
 projects/
 tools/
+*.hack
+*.tst
+*.cmp
+*.out
